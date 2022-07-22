@@ -1,0 +1,19 @@
+
+1. 100000 rs standard starting
+	a. Normal
+	b. compounded
+
+2. 15 mins ignore first two days 	
+Weekly ignore first 6 months
+daily ignore firt one month
+
+3. DO some reserach on ema
+
+4. Get data for 15 mins and test
+
+5. daily can do testing.....
+
+6. optimise program for large number of stocks....remove for loops
+
+7. make claendar type table in top50
+
